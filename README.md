@@ -7,4 +7,4 @@ Thank you for your interest in the FV40 (40 Types of Fruits and Vegetables Fast 
 Wishing you all the best in your research endeavors!
 
 **Dataset link：**
-https://drive.google.com/file/d/1403AYWs6JPKgZFTGRTw4tD8MuzUUmR7r/view?usp=drive_link
+https://drive.google.com/file/d/1CEvyFoioBQcpGhD0UHrxFrlItymwf9dm/view?usp=sharing
